@@ -1,7 +1,7 @@
 ## PARCIAL 1 - FACHADA
 
 Este proyecto crea un servicio es la fachada del servicio construido en la primer parte:
-[SaprkWebApp](https://calculadora-parte1.herokuapp.com/cal?valor=2&operacion=tan)
+[Calculadora Parte 1](https://calculadora-parte1.herokuapp.com/cal?valor=2&operacion=tan)
 
 Para realizar nuevos calculos modifique los parámetros valor y operacion.
 
@@ -13,7 +13,7 @@ Para realizar nuevos calculos modifique los parámetros valor y operacion.
 
 ## Link Heroku
 
-[SaprkWebApp](https://fachada-calculadora.herokuapp.com/facadetrig?valor=0&operacion=tan)
+[Fachada](https://fachada-calculadora.herokuapp.com/facadetrig?valor=0&operacion=tan)
 
 
 ## Autor
